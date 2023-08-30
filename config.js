@@ -46,15 +46,15 @@ global.PASSWORD = 'janith'  // Put The Password Get From Yt video  https://youtu
 
 // PUT YOUR SESSION ID HERE 
 
-global.SESSION_ID = 'QueenNilu;;;56JyRRYa#Ik5EzJsCTWxCTHmDnSBiL7lREebwRRYkMZBckBWclJs' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;VzZHlArC#O06tUnxKUWrMjjR9JPaBgtagdDg2DZg9uMxou9tgovg' // PUT your session ID BY scan QR 
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94701471857'
+global.OWNER_NUMBER = '94789218536'
 
-global.OWNER_NAME = 'Daraya_X'
+global.OWNER_NAME = '𝙳𝙰𝚁𝙰𝚈𝙰__𝚇'
 
 global.OPENAI_API_KEY = "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"
 
